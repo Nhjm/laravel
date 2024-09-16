@@ -1,0 +1,30 @@
+{
+    "poppins": {
+        "100": "D:\\laragon\\www\\ass\\storage\\app\/fonts\/poppins_100_1a513d0980edbc7cca4c502ba2577435",
+        "200": "D:\\laragon\\www\\ass\\storage\\app\/fonts\/poppins_200_7947ea2e1f9e9614e6239a27958205bd",
+        "300": "D:\\laragon\\www\\ass\\storage\\app\/fonts\/poppins_300_56a45aadd6f4717d0b29e006a9a82359",
+        "normal": "D:\\laragon\\www\\ass\\storage\\app\/fonts\/poppins_normal_76df55b5114b1626b7db1a4cd816c320",
+        "500": "D:\\laragon\\www\\ass\\storage\\app\/fonts\/poppins_500_90dcab88268cf6d3f77b33841917903c",
+        "600": "D:\\laragon\\www\\ass\\storage\\app\/fonts\/poppins_600_ab2317e82e93420e320bf10d17d6c75b",
+        "bold": "D:\\laragon\\www\\ass\\storage\\app\/fonts\/poppins_bold_cc53e8e8659afa950c49e4494cbb2708",
+        "800": "D:\\laragon\\www\\ass\\storage\\app\/fonts\/poppins_800_e36b15aa8fae738b721cafc53868de52",
+        "900": "poppins_900_4f72b1f9653154f66553c38e547a606a"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_70355643781e7f80917cdfe32781a1e5"
+    },
+    "roboto": {
+        "100_italic": "D:\\laragon\\www\\ass\\public\\fonts\/roboto_100_italic_559ac2b90f004b83f21d8500a4fda7c4",
+        "300_italic": "D:\\laragon\\www\\ass\\public\\fonts\/roboto_300_italic_d317fa2237b7962a3fd66adfa8987f1e",
+        "italic": "D:\\laragon\\www\\ass\\public\\fonts\/roboto_italic_322eb4a8c28cb60b9c1aea4b47a56aa3",
+        "500_italic": "D:\\laragon\\www\\ass\\public\\fonts\/roboto_500_italic_bd56a7ae3eb165c15ffb40cbf80eb5dc",
+        "bold_italic": "D:\\laragon\\www\\ass\\public\\fonts\/roboto_bold_italic_f52b3176ccea70da0d52f18e0938a607",
+        "900_italic": "D:\\laragon\\www\\ass\\public\\fonts\/roboto_900_italic_cddf88f6c34a9ba52072143e639c8202",
+        "100": "D:\\laragon\\www\\ass\\public\\fonts\/roboto_100_9234a3ac26ff1592485d2aabcb2c9d8e",
+        "300": "D:\\laragon\\www\\ass\\public\\fonts\/roboto_300_cc4e76f50b66ce9ac2b3d8a19b5f276d",
+        "normal": "D:\\laragon\\www\\ass\\public\\fonts\/roboto_normal_e794639d941c5ae548beb5b53f96d8e5",
+        "500": "D:\\laragon\\www\\ass\\public\\fonts\/roboto_500_64eaa50e2bf35fe15f6cb55ada83a64e",
+        "bold": "roboto_bold_9420b318fa9b620e67bbd96e8ff529e0",
+        "900": "D:\\laragon\\www\\ass\\public\\fonts\/roboto_900_23e21dd11a29036fdf461b3dbe1796a8"
+    }
+}
